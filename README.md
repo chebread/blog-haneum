@@ -1,4 +1,4 @@
-# Blog haneum
+# Blog
 This is my blog.
 
 ## License
